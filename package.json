@@ -1,0 +1,22 @@
+{
+  "name": "node-cat-app",
+  "version": "1.0.0",
+  "description": "A Node.js program that reads and outputs file content like the UNIX cat command, with added web fetching capabilities.",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensuki/cat-node-app.git"
+  },
+  "author": "jensuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensuki/cat-node-app/issues"
+  },
+  "homepage": "https://github.com/jensuki/cat-node-app#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
